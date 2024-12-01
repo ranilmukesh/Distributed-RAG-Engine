@@ -1,0 +1,30 @@
+user :From Management Details extract: Managed By: Managed By Email:
+assistant : Managed By: Caroline McPartland
+
+  Managed By Email: cmcpartland@diligent.com
+
+
+  The management details of Aardvark Constructions Limited indicate that the company is managed by Caroline McPartland. The contact email for Caroline McPartland is cmcpartland@diligent.com. This information is extracted from the company profile document, which provides specific details about the management of the company.
+user :Provide Main Details of the company Aardvark Constructions Limited. Including following details: Name: Country: Company Number: Incorporated: Company Type: Company Status: Primary Addresses Registered Office: Accounting Dates: Confirmation Statement:
+assistant : Name: Aardvark Constructions Limited
+
+  Country: United Kingdom
+
+  Company Number: 123456
+
+  Incorporated: 20/10/2020
+
+  Company Type: Limited by Shares
+
+  Company Status: Active
+
+  Primary Addresses:
+
+    Registered Office: 6 Chancery Road, London, WC2A 5DP, United Kingdom
+
+  Accounting Dates: 16/11/2022 16/11/2024
+
+  Confirmation Statement: 17/02/2023 17/02/2023 03/03/2023
+
+
+  The above details are extracted from the company profile document of Aardvark Constructions Limited, which is a PDF file converted from a DocConverter file. The company is incorporated in the United Kingdom, has a company number of 123456, and is a limited by shares company. The company's registered office is located at 6 Chancery Road, London, WC2A 5DP, United Kingdom. The accounting dates are 16/11/2022 and 16/11/2024. The confirmation statement was filed on 17/02/2023, and the next one is due on 17/02/2024. The company's status is active, and it complies with the relevant regulations and requirements.
