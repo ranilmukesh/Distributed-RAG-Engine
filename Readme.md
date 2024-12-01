@@ -176,14 +176,6 @@ st.session_state["password"]
 - 🏢 Deployed in Fortune 500 companies
 - 📊 Processing millions of documents monthly
 - 💰 Significant cost savings vs traditional solutions
-
-## 🔗 Quick Links
-
-- [Installation Guide](#quick-start)
-- [API Documentation](docs/api-reference.md)
-- [Contributing Guidelines](CONTRIBUTING.md)
-- [Security Policy](SECURITY.md)
-
 ---
 
 <p align="center">
@@ -191,7 +183,7 @@ Built with ❤️ by <a href="https://www.instagram.com/phobosq.in/">PhobosQ</a>
 </p>
 
 <p align="center">
-<a href="https://github.com/ranilmukesh">⭐ Star us on GitHub</a>
+<a href="https://github.com/ranilmukesh/Distributed-RAG-Engine">⭐ Star us on GitHub</a>
 </p>
 
 Primary Keywords
